@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me  
 - 🔐 SOC L1 Analyst | Blue Team Defender  
-- 📊 Focused on Threat Detection, Incident Response & Attack Trees  
+- 📊 Focused on Threat Detection, Incident Response 
 - 🛡️ Skilled in Web Application Security (XSS, SQLi, Authentication Attacks)  
 - 🎓 Preparing for SOC L1 interviews & certifications  
 - 🌞 **Morning Person – I study & focus best at sunrise**  
